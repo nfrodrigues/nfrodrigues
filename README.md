@@ -9,7 +9,7 @@
 [![Portfólio](https://img.shields.io/badge/PORTFÓLIO-Ver%20site-1763D1?style=for-the-badge)](https://nfrodrigues.github.io/meu-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nina-r-503b57134/)
 
-📍 São Paulo, Brasil · Salesforce since 2021
+📍 São Paulo, Brasil · 
 
 </div>
 
