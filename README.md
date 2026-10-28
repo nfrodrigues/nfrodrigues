@@ -2,8 +2,7 @@
 
 # Nina Rodrigues ✦
 
-### Salesforce Solution Consultant · Service Cloud · Field Service · Solution Design
-
+### Salesforce Solution Consultant 
 **Transformando necessidades de negócio em soluções de CRM centradas nas pessoas.**  
 *Turning business needs into people-centered CRM solutions.*
 
