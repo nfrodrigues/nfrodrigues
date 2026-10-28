@@ -35,6 +35,6 @@ My work spans **discovery, requirements analysis, solution design, user stories,
 
 **[nfrodrigues.github.io/meu-portfolio](https://nfrodrigues.github.io/meu-portfolio/)**
 
-*Business • Technology • People*
+*Business • Technology •*
 
 </div>
