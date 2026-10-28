@@ -29,35 +29,6 @@ My work spans **discovery, requirements analysis, solution design, user stories,
 
 ---
 
-### ✦ Expertise / Especialidades
-
-| CRM & Platform | Consulting & Design | Emerging Tech |
-| :--- | :--- | :--- |
-| Service Cloud | Business Analysis | Agentforce |
-| Field Service | Discovery & Workshops | Data 360 |
-| Sales Cloud | Solution Design | CRM Transformation |
-| Salesforce Flow | Process Mapping | Automation |
-| Administration | User Stories & Figma | Customer Experience |
-
-### ✦ Career / Trajetória
-
-| Period / Período | Role / Cargo |
-| :--- | :--- |
-| Aug 2026 — Present | **Associate Solution Consultant** · Salesforce |
-| Oct 2024 — Aug 2026 | **Solution Consulting Specialist** · Salesforce |
-| Sep 2022 — Sep 2024 | **Professional Services Intern** · Salesforce |
-| Jun 2021 — Sep 2022 | **Professional Services Apprentice** · Salesforce |
-
-### ✦ Certifications / Certificações
-
-`Salesforce Certified Administrator` · `Salesforce Associate` · `Salesforce Business Analyst` · `Data 360 Consultant`
-
-### ✦ Selected work / Projetos em destaque
-
-**Field Service & Operations** — Process design and operational journeys for field service teams.  
-**Service Cloud & Customer Service** — Case management, SLA processes and customer support solutions.  
-**Discovery & Solution Design** — Workshops, requirements and prototypes that connect business objectives to feasible solutions.
-
 > Client experiences are described at a high level to respect confidentiality.  
 > Experiências apresentadas de forma geral para preservar a confidencialidade dos clientes.
 
