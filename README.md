@@ -29,9 +29,6 @@ My work spans **discovery, requirements analysis, solution design, user stories,
 
 ---
 
-> Client experiences are described at a high level to respect confidentiality.  
-> Experiências apresentadas de forma geral para preservar a confidencialidade dos clientes.
-
 <div align="center">
 
 ### Explore my portfolio / Conheça meu portfólio
