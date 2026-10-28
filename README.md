@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nina Rodrigues ✦
+# ✦ Nina Rodrigues ✦
 
 ### Salesforce Solution Consultant 
 **Transformando necessidades de negócio em soluções de CRM centradas nas pessoas.**  
